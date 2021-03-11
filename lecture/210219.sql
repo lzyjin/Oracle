@@ -408,3 +408,4 @@ FROM DUAL;
 
 SELECT TO_DATE('000225', 'YYMMDD')  -- 이렇게 고치면 된다.
 FROM DUAL;
+
