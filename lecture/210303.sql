@@ -837,7 +837,8 @@ FROM KH.TBL_USER;
 
 
 
-
+SELECT *
+FROM MEMBER;
 
 
 
